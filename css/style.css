@@ -1,0 +1,136 @@
+* {
+    color: white !important;
+    
+
+
+}
+
+.page1 {
+    background-image: url(../imgs/banner.png) !important;
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-color: #1e202b
+
+    ;
+}
+
+.navbar {
+    padding: 50px;
+    background-color: #1e202b;
+}
+
+.navbar img {
+    width: 70px;
+    height: 50px;
+    margin-right: 10px;
+}
+.navbar li {
+    transition: 0.5s !important;
+}
+.navbar li :hover{
+    color: rgb(86, 86, 163) !important;
+}
+
+.navLogo {
+    margin-right: 700px;
+
+}
+
+.navLogo p {
+    font-size: 10px;
+}
+
+.searchBtn {
+    background-color: #1e202b;
+    margin-top: 70px;
+}
+
+.searchButton {
+    width: 100px;
+    height: 50px;
+    background-color: #009ad8;
+}
+
+.card1 {
+    height: auto;
+    background-color: #383a45;
+    border-radius: 0px 15px;
+}
+
+.title1 {
+    background-color: #2b2e3d;
+    height: 50px;
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    padding-bottom: 0%;
+    border-radius:  15px 0px  0px  0px;
+
+}
+
+.w-icons-img {
+    width: 40px;
+    height: fit-content;
+
+}
+
+.w-icons p {
+    padding: 10px;
+}
+
+.temp {
+    font-size: 70px;
+    font-weight: 700;
+}
+
+.card2 {
+    text-align: center;
+    background-color: #2b2e3d;
+}
+
+.title2 {
+    background-color: #1e202b;
+    height: 50px;
+    text-align: center;
+    padding: 10px;
+}
+
+.card3 {
+    text-align: center;
+    background-color: #383a45;
+    border-radius:  15px 0px;
+
+
+}
+
+
+.title3 {
+    background-color: #2b2e3d;
+    height: 50px;
+    text-align: center;
+    padding: 10px;
+    border-radius:   0px 15px 0px 0px;
+
+}
+
+
+
+.email {
+    background-color: #2b2e3d;
+    padding-top: 70px;
+}
+
+.emailBtn {
+    width: 800px;
+    height: 50px;
+    background-color: #383a45;
+}
+
+.email i {
+    font-size: 20px;
+    padding-right: 5px;
+    transition: 0.5s !important;
+}
+
+
